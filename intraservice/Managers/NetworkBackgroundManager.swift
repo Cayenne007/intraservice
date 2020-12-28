@@ -25,6 +25,7 @@ class NetworkBackgroundManager: NSObject, URLSessionDelegate, URLSessionDownload
         guard let data = try? Data(contentsOf: location) else { return }
         JSON.decodeTasksBackground(data) {
             
+            StorageManager.shared.saveContext()
             Notifications.updateTaskList()
             Logger.log(text: "tasks complete")
             NetworkManager.shared.startBackgroundTask()

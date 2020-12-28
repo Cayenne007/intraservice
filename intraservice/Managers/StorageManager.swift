@@ -107,7 +107,7 @@ class StorageManager {
         
         task.idString   = String(json.id)
         task.name       = json.name
-        task.text       = json.taskDescription
+        task.text       = json.taskDescription ?? ""
         task.creator    = json.creator
         task.type       = json.type
         task.created    = json.created.toDate()

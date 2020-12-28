@@ -39,6 +39,7 @@ class NetworkManager {
             self.fetchTaskStatus {
                 self.fetchUsers(page: 1) {
                     self.fetchTask(page: 1, notify: notify) {
+                        StorageManager.shared.saveContext()
                         DispatchQueue.main.async {
                             completion()
                         }
