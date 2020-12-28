@@ -1,0 +1,63 @@
+
+/* Class = "UILabel"; text = "Исполнители:"; ObjectID = "0AB-KD-Rs0"; */
+"0AB-KD-Rs0.text" = "Исполнители:";
+
+/* Class = "UILabel"; text = "Открыта"; ObjectID = "4QP-Eb-XRc"; */
+"4QP-Eb-XRc.text" = "Открыта";
+
+/* Class = "UILabel"; text = "По"; ObjectID = "4zm-oj-wJ1"; */
+"4zm-oj-wJ1.text" = "По";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "5WE-ZF-Ie7"; */
+"5WE-ZF-Ie7.title" = "Item";
+
+/* Class = "UINavigationItem"; title = "Задачи"; ObjectID = "6kt-sG-2P7"; */
+"6kt-sG-2P7.title" = "Задачи";
+
+/* Class = "UILabel"; text = "Фильтр"; ObjectID = "8Uw-oD-vI7"; */
+"8Uw-oD-vI7.text" = "Фильтр";
+
+/* Class = "UILabel"; text = "Сервисы:"; ObjectID = "Bam-ew-eXL"; */
+"Bam-ew-eXL.text" = "Сервисы:";
+
+/* Class = "UILabel"; text = "В процессе"; ObjectID = "GMb-75-hAO"; */
+"GMb-75-hAO.text" = "В процессе";
+
+/* Class = "UILabel"; text = "Исключить:"; ObjectID = "Hfe-Nb-VXb"; */
+"Hfe-Nb-VXb.text" = "Исключить:";
+
+/* Class = "UITextView"; text = "test"; ObjectID = "KEd-MP-Dj6"; */
+"KEd-MP-Dj6.text" = "test";
+
+/* Class = "UILabel"; text = "Выполнена"; ObjectID = "Vj6-a1-f17"; */
+"Vj6-a1-f17.text" = "Выполнена";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "Y9O-W6-Gqb"; */
+"Y9O-W6-Gqb.text" = "Title";
+
+/* Class = "UILabel"; text = "Изменена по"; ObjectID = "awq-16-hnd"; */
+"awq-16-hnd.text" = "Изменена по";
+
+/* Class = "UILabel"; text = "Запрос данных"; ObjectID = "bdT-bJ-mll"; */
+"bdT-bJ-mll.text" = "Запрос данных";
+
+/* Class = "UILabel"; text = "С"; ObjectID = "cDd-ue-EeF"; */
+"cDd-ue-EeF.text" = "С";
+
+/* Class = "UIButton"; normalTitle = "Применить"; ObjectID = "dK2-dR-G1w"; */
+"dK2-dR-G1w.normalTitle" = "Применить";
+
+/* Class = "UILabel"; text = "На согласовании"; ObjectID = "hrb-Tn-ue0"; */
+"hrb-Tn-ue0.text" = "На согласовании";
+
+/* Class = "UILabel"; text = "Изменена с"; ObjectID = "lud-nF-RDW"; */
+"lud-nF-RDW.text" = "Изменена с";
+
+/* Class = "UILabel"; text = "Отменена"; ObjectID = "qcD-YT-PdX"; */
+"qcD-YT-PdX.text" = "Отменена";
+
+/* Class = "UILabel"; text = "Закрыта"; ObjectID = "vSM-KX-s1j"; */
+"vSM-KX-s1j.text" = "Закрыта";
+
+/* Class = "UILabel"; text = "Subtitle"; ObjectID = "wAM-1D-2Tb"; */
+"wAM-1D-2Tb.text" = "Subtitle";
